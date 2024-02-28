@@ -1,0 +1,23 @@
+.primary-btn {
+    background-color: #007bff; 
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    height: 50px;
+    width: 200px;
+  }
+  
+  .primary-btn:hover {
+    /* Hover effect (optional) */
+    background-color: black;
+    transition: 0.1s;
+  }
+  
+  .primary-btn:active {
+    /* Clicked state */
+    background-color: black;
+    color: white;
+  }
+  

@@ -1,0 +1,41 @@
+/* *{
+    margin: 0;
+    padding: 0;
+}
+img{
+    height: 40px;
+    width: 40px;
+    margin-bottom: 120px;
+    margin-right: 50px;
+}
+.info{
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+    border: 1px solid black;
+    height: 250px;
+    width: 300px;
+    margin-left: 20px;
+    padding-left: 10px;
+}
+
+.data{
+    flex-grow: 1;
+}
+
+.payment{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.form{
+    flex-grow: 1;
+    background-color: yellow;
+    height: 200px;
+    width: 250px;
+    margin-left: 200px ;
+} 
+button{
+    margin-left: 80px;
+} */

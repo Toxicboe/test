@@ -1,0 +1,30 @@
+.card .img-fit{
+    aspect-ratio: 16/9;
+    object-fit: cover;
+}
+.card{
+    height:100%;
+
+}
+.card-body{
+    display: flex;
+    height: 100%;
+    flex-direction: column;
+}
+.card-text{
+    flex-grow: 1;
+}
+
+@media (max-width:767.98px) {
+    .card .img-fit{
+        aspect-ratio:1.45/1;
+    }
+}
+
+.diamond{
+    /* color="linear-gradient(135deg, #93c5fd, #3b82f6)" */
+    color:linear-gradient(135deg, #93c5fd, #3b82f6);
+    size: 100px;
+    z-index: 2;
+    border-radius:"10px"
+}

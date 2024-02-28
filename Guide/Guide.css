@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+  }
+.GuideInformation{
+    background-color: red;
+    height: 300px;
+    width: 600px;
+    margin-left: 100px;
+    border-radius: 20px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+.Container{
+    display: flex;
+}
+.GuideIntro{
+    margin-left: 500px
+}
